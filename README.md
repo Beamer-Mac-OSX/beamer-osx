@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/beamermacmac">  
+<a href="https://get-software-osx.github.io/.github/beamermac">  
 <img src="https://img.shields.io/badge/Get_Beamer_for_macOS-darkblue?style=for-the-badge&logo=apple" alt="Get Beamer for macOS">  
 </a>  
 </div>  
